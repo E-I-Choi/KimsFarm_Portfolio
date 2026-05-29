@@ -1,5 +1,4 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.3-black?logo=unrealengine)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 # KimsFarm_Portfolio
 이력서 포트폴리오를 위한 리포지토리입니다.
