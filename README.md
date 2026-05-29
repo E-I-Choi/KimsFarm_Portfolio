@@ -1,3 +1,6 @@
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.3-black?logo=unrealengine)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
 # KimsFarm_Portfolio
 이력서 포트폴리오를 위한 리포지토리입니다.
 출시 예정작 Kim's Farm 프로젝트에 대한 개요 및 스크린샷, 설명 링크, 상점 링크가 포함됩니다.
