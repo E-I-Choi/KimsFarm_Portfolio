@@ -2,7 +2,7 @@
 
 # KimsFarm_Portfolio
 이력서 포트폴리오를 위한 리포지토리입니다.
-출시 예정작 Kim's Farm 프로젝트에 대한 개요 및 스크린샷, 설명 링크, 상점 링크가 포함됩니다.
+출시 예정작 Kim's Farm 프로젝트에 대한 개요 및 소개 영상 링크, 상점 링크가 포함됩니다.
 
 상점 url
 https://store.steampowered.com/app/4566450/Kims_Farm/?beta=0
